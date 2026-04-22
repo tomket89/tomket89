@@ -10,8 +10,6 @@
 
 <h3 align="center">🧠 Currently Learning</h3>
 
-<h3 align="center">🧠 Currently Learning</h3>
-
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML5" />
