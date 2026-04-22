@@ -10,6 +10,8 @@
 
 <h3 align="center">🧠 Currently Learning</h3>
 
+<h3 align="center">🧠 Currently Learning</h3>
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML5" />
@@ -27,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" alt="TailwindCSS" />
   </a>
 
-  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer">
+  <a href="https://git-scm.com/docs" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
   </a>
 
@@ -43,6 +45,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs" width="70" alt="Next.js" />
   </a>
 </p>
+
 
 <hr/>
 
