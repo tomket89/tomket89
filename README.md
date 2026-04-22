@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=astro" width="70" alt="Astro" />
   </a>
 
-  <a href="https://nextjs.org/docs">
+  <a href="https://nextjs.org/docs" target=_blank>
     <img src="https://skillicons.dev/icons?i=nextjs" width="70" alt="Next.js" />
   </a>
 </p>
