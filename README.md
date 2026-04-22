@@ -64,24 +64,6 @@
 
 <hr/>
 
-<h3 align="center">🧰 Tools & Environment</h3>
-
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
-  </a>
-
-  <a href="https://github.com/tjokic989" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="60" alt="GitHub" />
-  </a>
-
-  <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="60" alt="Chrome DevTools" />
-  </a>
-</p>
-
-<hr/>
-
 <h3 align="center">🎯 Goals</h3>
 
 <p align="center">
